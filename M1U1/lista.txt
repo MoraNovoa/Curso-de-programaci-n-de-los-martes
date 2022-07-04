@@ -1,0 +1,6 @@
+comprar:
+harina
+huevos
+leche
+manteca
+cacao
